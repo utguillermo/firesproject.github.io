@@ -1,5 +1,8 @@
 # Team 6 Project Page: Forest Fires
-Interactive website of team 6's project on forest fires!
+<image src=https://www.montesinho.com/images/oparque/mapa.jpg>
+  
+ Interactive website of team 6's project on forest fires!
+
 
 ## Meet our team!
 
