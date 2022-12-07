@@ -31,9 +31,9 @@ For our project, our team chose to use a dataset studying forest fires in Montes
 
 ## See the project for yourself and read our work below!
 
-Link to our repository: https://github.com/jackson-dugger/Team6-Project
+Link to our [https://github.com/jackson-dugger/Team6-Project](repository)
 
-Link to our paper/report: https://docs.google.com/document/d/1QwMXim64WCBUkGIe46147B8P6a4bnSDAsgs5tfSnRMc/edit
+Link to our [https://docs.google.com/document/d/1QwMXim64WCBUkGIe46147B8P6a4bnSDAsgs5tfSnRMc/edit](paper/report)
 
 
 #### Thank you!!!
