@@ -2,7 +2,8 @@
 Interactive website of team 6's project on forest fires!
 
 <image src=https://www.montesinho.com/images/oparque/mapa.jpg>
- (https://www.montesinho.com/en/oparque/mapa)
+
+(https://www.montesinho.com/en/oparque/mapa)
   
 
 
